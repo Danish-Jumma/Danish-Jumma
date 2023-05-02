@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Danish Kumar</h1>
 <h3 align="center">Iam Learning Full Stack Web and Mobile Apps Development</h3>
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width= "400" align="right"/>
+<img border-radius="20" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width= "400" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danish-jumma&label=Profile%20views&color=0e75b6&style=flat" alt="danish-jumma" /> </p>
 
