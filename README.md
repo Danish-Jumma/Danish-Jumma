@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danish-jumma&label=Profile%20views&color=0e75b6&style=flat" alt="danish-jumma" /> </p>
 
-- 🔭 I’m currently working on **React Projects**
+- 🔭 I’m currently working on **React Projects and Flutter Projects**
 
 - 🌱 I’m currently learning **Back End Technologies**
 
