@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Danish Kumar</h1>
-<h3 align="center">Iam Learning Full Stack Web and Mobile Apps Development</h3>
+<h3 align="center">Iam Learning Full Stack Web and Mobile App Development</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width= "400" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danish-jumma&label=Profile%20views&color=0e75b6&style=flat" alt="danish-jumma" /> </p>
