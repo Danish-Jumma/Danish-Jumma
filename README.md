@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Danish Kumar</h1>
+<h1 align="center">Hi 👋, I'm Danish </h1>
 <h3 align="center">Iam Learning Full Stack Web and Mobile App Development</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width= "400" align="right"/>
 
