@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Back End Technologies**
 
-- 📫 How to reach me **dk2008240@gmail.com**
+- 📫 How to reach me **danishjumma552@gmail.com**
 
 - ⚡ Fun fact **Programming and Play Circket**
 
