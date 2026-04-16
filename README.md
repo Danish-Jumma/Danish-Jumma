@@ -1,30 +1,104 @@
+<h1 align="center">Hi 👋, I'm Danish</h1>
+<h3 align="center">Aspiring Data Scientist | Flutter & React Developer</h3>
 
-<h1 align="center">Hi 👋, I'm Danish </h1>
-<h3 align="center">Currently Working On Data Science </h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width= "400" align="right"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" align="right"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danish-jumma&label=Profile%20views&color=0e75b6&style=flat" alt="danish-jumma" /> </p>
-
-- 🔭 I’m currently working on **React Projects and Flutter Projects**
-
-- 🌱 I’m currently learning **Back End Technologies**
-
-- 📫 How to reach me **danishjumma552@gmail.com**
-
-- ⚡ Fun fact **Programming and Play Circket**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/danish-kumar-198a65273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danish-kumar-198a65273" height="30" width="40" /></a>
-<a href="https://fb.com/danish kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danish kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/6821.danish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="6821.danish" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=danish-jumma&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danish-jumma&show_icons=true&locale=en&layout=compact" alt="danish-jumma" /></p>
+## 🚀 About Me
+- 🔭 Currently working on **Flutter & React Projects**
+- 📊 Learning **Data Science (Python, Pandas, Data Analysis)**
+- 🧠 Exploring **Data Analysis, EDA, and Machine Learning fundamentals**
+- 🌱 Expanding skills in **Backend Development & Data Science tools**
+- 📫 Reach me at: **danishjumma552@gmail.com**
+- ⚡ Fun fact: I enjoy **coding and playing cricket**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danish-jumma&show_icons=true&locale=en" alt="danish-jumma" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danish-jumma&" alt="danish-jumma" /></p>
+## 📊 Data Science Journey
+I am currently focused on building strong foundations in:
+- Python for Data Analysis
+- Pandas & NumPy
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Real-world datasets (Titanic, etc.)
+
+📌 *Goal: Become a job-ready Data Scientist with strong project portfolio*
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend & App Development
+<p>
+<a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+<a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/></a>
+</p>
+
+### 📊 Data Science Tools (Learning)
+<p>
+<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+</p>
+
+### 🔧 Backend & Tools
+<p>
+<a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+<a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
+</p>
+
+---
+
+## 📌 Current Focus
+- 🧹 Data Cleaning using Pandas
+- 📊 Exploratory Data Analysis (EDA)
+- 📈 Understanding real-world datasets
+- 🚀 Building GitHub portfolio projects
+
+---
+
+## 📂 Featured Projects (Coming Soon)
+- 🚢 Titanic Data Analysis (Pandas EDA)
+- 📊 Sales Data Analysis Project
+- 🤖 Machine Learning Beginner Projects
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=danish-jumma&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=danish-jumma&show_icons=true&locale=en" />
+</p>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danish-jumma&" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p>
+<a href="https://linkedin.com/in/danish-kumar-198a65273">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
+</a>
+
+<a href="https://instagram.com/6821.danish">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/>
+</a>
+
+<a href="https://fb.com/danish kumar">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30"/>
+</a>
+</p>
