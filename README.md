@@ -3,7 +3,7 @@
 ### Data Science Enthusiast | Flutter & React Developer
 
 <p align="center">
-  <a href="mailto:danishjumma552@gmail.com">
+  <a href="mailto:danishjumma001@gmail.com">
     <img src="https://img.shields.io/badge/Email-danishjumma552%40gmail.com-blue?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://linkedin.com/in/danish-kumar-198a65273">
